@@ -1,0 +1,19 @@
+{
+  "name": "wp-fluent-query",
+  "version": "0.1.0",
+  "description": "A database toolkit to use Laravel Eloquent in WordPress without establishing an additional connection to the database.",
+  "main": "index.js",
+  "authors": {
+    "name": "Alessandro Tesoro",
+    "email": "alessandro.tesoro@icloud.com"
+  },
+  "repository": "alessandrotesoro/wp-fluent-query",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
